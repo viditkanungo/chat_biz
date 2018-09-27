@@ -1,3 +1,3 @@
-# chat_biz
+# Chat Biz
  The purpose of this application is to allow users to chat with each other, like a normal chat application but in a specific group. You can pick another user at random and let you have a one-on-one chat with each other. Only two people can connect at a time as server and a client. The chat application will be written in Java.
 In addition to text messaging, ChatBiz users can send each other images, audios, files, voice messages. Additionally, if the user no longer required the files and audio that is being received, so that particular files and audios can be removed with just one click by the user. 
